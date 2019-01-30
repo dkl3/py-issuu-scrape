@@ -16,4 +16,4 @@ This script requires Python 3, and the packages urllib, Beautiful Soup, and wget
 
 ## Credits
 
-This script was inspired and is based on the Ruby script from pietrop: https://github.com/pietrop/issuu.com-downloader
+This script was inspired and is based on the Ruby script from pietrop: https://github.com/pietrop/issuu.com-downloader as well as dkl3's original python script: https://github.com/dkl3/py-issuu-scrape
