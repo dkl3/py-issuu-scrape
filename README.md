@@ -5,15 +5,16 @@ Basic Issuu scraper, and since I'm not an expert at Python, this is a simple scr
 ## Usage
 
     python3 ./issuu.py
-  
+
 The script will prompt you to enter Issuu item's URL and page count.
 
 ## Requirements
 
 This script requires Python 3, and the packages urllib, Beautiful Soup, and wget. To install the required packages:
-   
+
     pip install urllib3 beautifulsoup4 wget
 
-## Credits
+This package also requires the `convert` command from [ImageMagick](https://www.imagemagick.org/)
 
+## Credits
 This script was inspired and is based on the Ruby script from pietrop: https://github.com/pietrop/issuu.com-downloader as well as dkl3's original python script: https://github.com/dkl3/py-issuu-scrape
